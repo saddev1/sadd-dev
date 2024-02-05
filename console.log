@@ -1,3 +1,7 @@
 // hey this is a comment for pr
+
 console.log("hello world")
-console.log("hello world") //2nd time
+console.log("hello world")
+function main() {
+return null;
+}
