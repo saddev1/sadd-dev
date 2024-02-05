@@ -8,3 +8,6 @@ return null;
 function main() {
 return null;
 }
+function main() {
+return null;
+}  // for testing 
