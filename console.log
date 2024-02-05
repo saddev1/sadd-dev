@@ -5,3 +5,6 @@ console.log("hello world")
 function main() {
 return null;
 }
+function main() {
+return null;
+}
